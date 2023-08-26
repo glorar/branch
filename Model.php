@@ -7,4 +7,9 @@ class Model
         return 1;
     }
 
+    public function funcOne(): void
+    {
+        return;
+    }
+
 }
