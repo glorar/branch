@@ -11,8 +11,13 @@ class Model
     {
         return;
     }
-    
+
     public function funcTwo(): void
+    {
+        return;
+    }
+
+    public function funcThree(): void
     {
         return;
     }
