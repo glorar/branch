@@ -11,5 +11,10 @@ class Model
     {
         return;
     }
+    
+    public function funcTwo(): void
+    {
+        return;
+    }
 
 }
